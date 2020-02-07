@@ -1,2 +1,2 @@
-# Lightweight-Plugin-Boiler-Wordpress-
+# Lightweight plugin boilerplate
 Enkel lightweight plugin boiler
